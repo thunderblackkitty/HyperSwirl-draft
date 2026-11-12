@@ -2948,17 +2948,11 @@ body.dark-mode.about-page main .bg-nav-box:hover {
 
 .takeaway {
   background: var(--site-primary);
-  color: white;
   border-radius: 22px;
   padding: 34px;
   display: grid;
   grid-template-columns: 1.2fr .8fr;
   gap: 24px;
-}
-
-.takeaway p,
-.takeaway ul {
-  color: #d1e2e6;
 }
 
 /* ==============================
@@ -2986,7 +2980,6 @@ td {
 
 th {
   background: var(--site-primary);
-  color: white;
 }
 
 td {
